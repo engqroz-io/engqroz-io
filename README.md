@@ -1,15 +1,25 @@
-# UM POUCO SOBRE MIM / A LITTLE ABOUT ME👋
-Olá pessoal,
+<table>
+  <colgroup>
+    <col style:"width: 50%;">
+    <col style:"width: 50%;">
+  </colgroup>
+  <tr>
+    <td valign="top">
+<h1>UM POUCO SOBRE MIM 👋</h1>
+Olá pessoal,</p>
 
 Sou profissional de TI desde 2008 com mais 3 anos de formação técnica em Informática. Me formei em Sistemas de Informação em 2014 e em 2018 iniciei uma Pós-Graduação em Gerenciamento de Projetos, porém não a concluí. Comecei minha carreira em pequenas empresas que ofereciam software como serviço (SaaS) entre outras pequenos serviços de manutenção de PC. Nos últimos anos tenho participado de grandes projetos em clientes com médio e grande porte para construção e manutenção de softwares empresariais.
+      
+💞️ Sou apaixonado por buscar soluções inovadoras, por aprender e aplicar boas práticas que auxiliam meu dia-a-dia como estudante e profissional. Aplico boas práticas de metodologias ágeis, como SCRUM, e gerenciamento de projeto, como PMBOK (que em sua nova versão já inclui gerenciamento ágil) nos meus projetos pessoais e profissionais. Estou sempre a procurar algum conteúdo prático para ampliar meu conhecimento em desenvolvimento e engenharia de software, e gestão de projetos. 
+      
+😄 Meus hobbies são viajar; fotografar; andar de bicicleta; leitura de mangá, livros de ficção, revistas como Super Interessante, National Geographic, entre outros; assistir animes, documentários, filmes e séries; e atualmente voltei a fazer Karatê, que não faço deste jovem.
 
-💞️ Sou apaixonado por buscar soluções inovadoras, por aprender e aplicar boas práticas que auxiliam meu dia-a-dia como estudante e profissional. Aplico boas práticas de metodologias ágeis, como SCRUM, e gerenciamento de projeto, como PMBOK, que em sua nova versão já inclui gerenciamento ágil, nos meus projetos pessoais e profissionais. Estou sempre a procurar algum conteúdo prático para ampliar meu conhecimento em desenvolvimento e engenharia de software, e gestão de projetos. 
-
-😄 Meus hobbies são viajar; fotografar; andar de bicicleta; leitura de mangá, livros de ficção, revistas como Super Interessante, National Geographic, entre outros; assistir animes, documentários, filmes e séries; e atualmente voltei a fazer Karatê, que não faço deste jovem. 
-
----------------------------------------------------------------------------------------------------------------------------------------------
-
-Hey everyone,
+<h1>CAIXA DE FERRAMENTA ⚡</h1>
+Costumo dizer que todos temos uma caixa de ferramenta, que a cada novo desafio incluímos algo novo, e com nossa criatividade podemos abrí-la e utilizar dessas ferramentas para tratar de novos desafios criando assim novas ferramentas. Em minha jornada tive oportunidade de incluir algumas ferramentas e ainda tenho espaço para muito mais. Conhecimento nunca é demais!
+    </td>
+    <td valign="top">
+<h1> A LITTLE ABOUT ME 👋</h1>
+Hey everyone,</p>
 
 I'm an IT professional since 2008, with 3 years of technical training in IT before that. I graduated in Information Systems in 2014, and started a Postgraduate course in Project Management in 2018, though I didn’t finish it. I kicked off my career with small companies offering SaaS and other minor PC maintenance services. In recent years, I’ve been involved in major projects for medium to large clients, working on the development and maintenance of enterprise software. 
 
@@ -17,12 +27,11 @@ I'm an IT professional since 2008, with 3 years of technical training in IT befo
 
 😄 My hobbies include traveling, photography, biking, reading manga and fiction books, and magazines like Super Interessante and National Geographic, among others. I also enjoy watching anime, documentaries, movies, and series. Recently, I’ve gotten back into Karate, something I haven’t practiced since I was younger.
 
-# CAIXA DE FERRAMENTA / TOOLBOX ⚡
-Costumo dizer que todos temos uma caixa de ferramenta, que a cada novo desafio incluímos algo novo, e com nossa criatividade podemos abrí-la e utilizar dessas ferramentas para tratar de novos desafios criando assim novas ferramentas. Em minha jornada tive oportunidade de incluir algumas ferramentas e ainda tenho espaço para muito mais. Conhecimento nunca é demais!
-
----------------------------------------------------------------------------------------------------------------------------------------------
-
+<h1>TOOLBOX ⚡</h1>
 I like to say that we all have a toolbox that fills up with new tools with each challenge we tackle. With a bit of creativity, we can open it up and use these tools to handle new challenges, creating new tools along the way. Over my journey, I’ve had the chance to add some tools to my box and there’s always room for more. There’s never too much knowledge!
+    </td>
+  </tr>
+</table>
 
 ## Linguagens de programação / Programming Languages
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
