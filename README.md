@@ -1,8 +1,4 @@
 <table>
-  <colgroup>
-    <col style:"width: 50%;">
-    <col style:"width: 50%;">
-  </colgroup>
   <tr>
     <td valign="top">
 <h1>UM POUCO SOBRE MIM 👋</h1>
