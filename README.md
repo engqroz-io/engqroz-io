@@ -1,117 +1,142 @@
-# UM POUCO SOBRE MIM / A LITTLE ABOUT ME 👋
-Olá pessoal,
-Sou profissional de TI desde 2008 com mais 3 anos de formação técnica em Informática. Me formei em Sistemas de Informação em 2014 e em 2018 iniciei uma Pós-Graduação em Gerenciamento de Projetos, porém não a concluí. Comecei minha carreira em pequenas empresas que ofereciam software como serviço (SaaS) entre outras pequenos serviços de manutenção de PC. Nos últimos anos tenho participado de grandes projetos em clientes com médio e grande porte para construção e manutenção de softwares empresariais.
+# Hey, I'm Raphael 👋
 
-💞️ Sou apaixonado por buscar soluções inovadoras, por aprender e aplicar boas práticas que auxiliam meu dia-a-dia como estudante e profissional. Aplico boas práticas de metodologias ágeis, como SCRUM, e gerenciamento de projeto, como PMBOK (que em sua nova versão já inclui gerenciamento ágil) nos meus projetos pessoais e profissionais. Estou sempre a procurar algum conteúdo prático para ampliar meu conhecimento em desenvolvimento e engenharia de software, e gestão de projetos.
+Trabalho com TI e desenvolvimento há mais de 17 anos. Comecei em pequenas empresas de software, com produtos monolíticos próprios, e hoje atuo em projetos de médio e grande porte, com sistemas empresariais críticos — do desenvolvimento à liderança técnica.
 
-😄 Meus hobbies são viajar; fotografar; andar de bicicleta; leitura de mangá, livros de ficção, revistas como Super Interessante, National Geographic, entre outros; assistir animes, documentários, filmes e séries; e atualmente voltei a fazer Karatê, que não faço deste jovem.
+Sou formado em **Sistemas de Informação** e ao longo da carreira passei por diferentes papéis: **Analista de Sistemas**, **Scrum Master**, **Gestor de Projetos** e **Tech Lead**. Gosto de entender o negócio para oferever boas soluções e de orientar equipes para entregar algo que realmente faz sentido.
 
-------
+---
 
-Hey everyone,
-I'm an IT professional since 2008, with 3 years of technical training in IT before that. I graduated in Information Systems in 2014, and started a Postgraduate course in Project Management in 2018, though I didn’t finish it. I kicked off my career with small companies offering SaaS and other minor PC maintenance services. In recent years, I’ve been involved in major projects for medium to large clients, working on the development and maintenance of enterprise software.
+_IT professional and developer with 17+ years of experience. Started in small software companies building their own monolithic products, now working on large-scale enterprise systems — from development to technical leadership._
 
-💞️ I’m passionate about finding innovative solutions, learning, and applying best practices that make a difference in my day-to-day life as a student and professional. I use agile methodologies like SCRUM and project management frameworks like PMBOK (which now includes agile management in its latest version) in both my personal and professional projects. I’m always on the lookout for practical content to expand my knowledge in software development, engineering, and project management.
+_I hold a degree in **Information Systems** and over the years I've worn different hats: **Systems Analyst**, **Scrum Master**, **Project Manager** and **Tech Lead**. I like to understand the business to offer good solutions, and to guide teams toward delivering things that actually make sense._
 
-😄 My hobbies include traveling, photography, biking, reading manga and fiction books, and magazines like Super Interessante and National Geographic, among others. I also enjoy watching anime, documentaries, movies, and series. Recently, I’ve gotten back into Karate, something I haven’t practiced since I was younger.
+---
 
-# CAIXA DE FERRAMENTA / TOOLBOX ⚡
+## O que faço no dia a dia / What I do day-to-day
 
-Costumo dizer que todos temos uma caixa de ferramenta, que a cada novo desafio incluímos algo novo, e com nossa criatividade podemos abrí-la e utilizar dessas ferramentas para tratar de novos desafios criando assim novas ferramentas. Em minha jornada tive oportunidade de incluir algumas ferramentas e ainda tenho espaço para muito mais. Conhecimento nunca é demais!
+No lado técnico, trabalho principalmente com **C#**, **.NET**, **Oracle** e **SQL Server** — sendo que com Oracle e **PL/SQL** tenho mais de 10 anos de vivência real, desde consultas complexas até tuning de performance. **T-SQL** também faz parte do meu dia a dia. Além disso, já passei por **Delphi**, **Java**, **Python** e **JavaScript** quando o projeto pediu. Tenho experiência com arquiteturas **SOA**, **Event-Driven**, **CQRS** e **Microsserviços**, e sei bem o que é lidar com sistemas legados que precisam continuar funcionando enquanto evoluem.
 
---------
+No lado de gestão, aplico **SCRUM** e práticas do **PMBOK**, organizo cerimônias, faço estimativas, ajudo times a priorizarem o que importa e sei mediar conversas difíceis com stakeholders.
 
-I like to say that we all have a toolbox that fills up with new tools with each challenge we tackle. With a bit of creativity, we can open it up and use these tools to handle new challenges, creating new tools along the way. Over my journey, I’ve had the chance to add some tools to my box and there’s always room for more. There’s never too much knowledge!
+Também tenho me aproximado cada vez mais de **dados**: Python para automação e análise, pipelines CI/CD com **GitHub Actions**, e monitorização de ambientes com **Dynatrace**.
 
-## Linguagens de programação / Programming Languages
+---
+
+_On the technical side, I work mainly with **C#**, **.NET**, **Oracle** and **SQL Server** — with over 10 years of hands-on experience with Oracle and **PL/SQL**, from complex queries to performance tuning. **T-SQL** is also part of my daily toolkit. I've also worked with **Delphi**, **Java**, **Python** and **JavaScript** whenever the project called for it. I'm experienced with **SOA**, **Event-Driven**, **CQRS** and **Microservices** architectures, and know what it's like to deal with legacy systems that need to keep running while evolving._
+
+_On the management side, I apply **SCRUM** and **PMBOK** practices, run ceremonies, make estimates, help teams prioritize what matters, and know how to mediate tough conversations with stakeholders._
+
+_I've also been getting closer to **data**: Python for automation and analysis, CI/CD pipelines with **GitHub Actions**, and environment monitoring with **Dynatrace**._
+
+---
+
+## Caixa de ferramentas / Toolbox ⚡
+
+**Linguagens / Languages**
+
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi-%2300599C.svg?style=flat&logo=delphi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23F80000.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2328A745.svg?style=flat&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![JQuery](https://img.shields.io/badge/jQuery-%23076D8D.svg?style=flat&logo=jquery&logoColor=white)
-![Asp.Net](https://img.shields.io/badge/Asp.Net-blue)
+![Shell](https://img.shields.io/badge/Shell-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-%235C2D91.svg?style=flat&logo=.net&logoColor=white)
 
+**Frameworks & Libs**
 
-## Frameworks e Bibliotecas / Libs
-![WPF](https://img.shields.io/badge/WPF-%23397B68.svg?style=flat&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat&logo=.net&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-%23007ACC.svg?style=flat&logo=.net&logoColor=white)
-![.NET Framework](https://img.shields.io/badge/.NET%20Framework-%235C2D91.svg?style=flat&logo=.net&logoColor=white)
-![DevExpress Report](https://img.shields.io/badge/DevExpress%20Report-%23325F9B.svg?style=flat&logo=devexpress&logoColor=white)
-![Quick Report](https://img.shields.io/badge/Quick%20Report-%231E7F82.svg?style=flat&logo=quickreport&logoColor=white)
-![Crystal Report](https://img.shields.io/badge/Crystal%20Report-%230F7E9A.svg?style=flat&logo=crystal-reports&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-blue)
+![WPF](https://img.shields.io/badge/WPF-%23397B68.svg?style=flat&logo=.net&logoColor=white)
+![NHibernate](https://img.shields.io/badge/NHibernate-%235B4F4F.svg?style=flat&logo=nhibernate&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23238E8F.svg?style=flat&logo=.net&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%235B4F4F.svg?style=flat&logo=hibernate&logoColor=white)
-![Nhibernate](https://img.shields.io/badge/NHibernate-%235B4F4F.svg?style=flat&logo=nhibernate&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%FF4F4F.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%230F4B7F.svg?style=flat&logo=matplotlib&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%23076D8D.svg?style=flat&logo=jquery&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![NHibernate](https://img.shields.io/badge/NHibernate-%235B4F4F.svg?style=flat&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23238E8F.svg?style=flat&logo=.net&logoColor=white)
+![TFS](https://img.shields.io/badge/TFS-%230078D7.svg?style=flat&logo=azuredevops&logoColor=white)
 
-## Ferramentas e Plataformas / Tools and Plataforms
-![Kibana](https://img.shields.io/badge/Kibana-%23000000.svg?style=flat&logo=kibana&logoColor=white)
-![TFS](https://img.shields.io/badge/TFS-%23520F41.svg?style=flat&logo=tfs&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%23003A70.svg?style=flat&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23002F87.svg?style=flat&logo=trello&logoColor=white)
-![Microsoft Project](https://img.shields.io/badge/Microsoft%20Project-%230A3B72.svg?style=flat&logo=microsoft-project&logoColor=white)
-![HP Project Manager](https://img.shields.io/badge/HP%20Project%20Manager-%23F7B700.svg?style=flat&logo=hp&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-%FF8C00.svg?style=flat&logo=clickup&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-%F3A31B.svg?style=flat&logo=asana&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-%234C8BF5.svg?style=flat&logo=googlecolab&logoColor=white)
 
-## Metodologias e Arquiteturas / Methodologies and Architectures
-![Scrum](https://img.shields.io/badge/Scrum-%23000F27.svg?style=flat&logo=scrum&logoColor=white)
-![Waterfall](https://img.shields.io/badge/Waterfall-%238A2C2D.svg?style=flat&logo=waterfall&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=flat&logo=ci-cd&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-%234C4C4C.svg?style=flat&logo=solid&logoColor=white)
-![PMBOK](https://img.shields.io/badge/PMBOK-%23D0B700.svg?style=flat&logo=pmbo&logoColor=white)
-![Cliente-Servidor](https://img.shields.io/badge/Client--Server-%23008CBA.svg?style=flat&logo=client-server&logoColor=white)
-![Monolithic](https://img.shields.io/badge/Monolithic-%23000000.svg?style=flat&logo=monolithic&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-%2300A3E0.svg?style=flat&logo=microservices&logoColor=white)
-![SOA](https://img.shields.io/badge/SOA-%234F5F73.svg?style=flat&logo=soa&logoColor=white)
-![Star Architecture](https://img.shields.io/badge/Star%20Architecture-%23F9B233.svg?style=flat&logo=star-architecture&logoColor=white)
-![REST](https://img.shields.io/badge/REST-%2367D1F5.svg?style=flat&logo=rest&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-%234C79A5.svg?style=flat&logo=soap&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23FFFFFF.svg?style=flat&logo=architecture&logoColor=%234C8BF5)
+**Bases de dados / Databases**
 
-## Banco de Dados / Database
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat&logo=oracle&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-%234B1E6D.svg?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%234B1E6D.svg?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-%23000000.svg?style=flat&logo=elasticsearch&logoColor=white)
-![DB2](https://img.shields.io/badge/DB2-%23007D7D.svg?style=flat&logo=db2&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300A3E0.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%230003C3.svg?style=flat&logo=sqlite&logoColor=white)
+![DB2](https://img.shields.io/badge/DB2-%23007D7D.svg?style=flat&logo=ibm&logoColor=white)
 
-## Outros / Others
-![ETL](https://img.shields.io/badge/ETL-%2338A1D7.svg?style=flat&logo=etl&logoColor=white)
+**Arquiteturas / Architectures**
+
+![SOA](https://img.shields.io/badge/SOA-%234F5F73.svg?style=flat)
+![Microservices](https://img.shields.io/badge/Microservices-%2300A3E0.svg?style=flat)
+![CQRS](https://img.shields.io/badge/CQRS-%23444.svg?style=flat)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-%23555.svg?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23FFFFFF.svg?style=flat&logo=architecture&logoColor=%234C8BF5)
+![REST](https://img.shields.io/badge/REST-%2367D1F5.svg?style=flat)
+![SOAP](https://img.shields.io/badge/SOAP-%234C79A5.svg?style=flat)
+![MVVM](https://img.shields.io/badge/MVVM-%239B59B6.svg?style=flat)
+![Star Schema](https://img.shields.io/badge/Star%20Schema-%23F9B233.svg?style=flat)
+
+
+**DevOps & Ferramentas / Tools**
+
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat&logo=rabbitmq&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-%231496FF.svg?style=flat&logo=dynatrace&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-%23000000.svg?style=flat&logo=kibana&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C300.svg?style=flat&logo=powerbi&logoColor=black)
-![XML](https://img.shields.io/badge/XML-%2300A1E0.svg?style=flat&logo=xml&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-%233D6C6C.svg?style=flat&logo=yaml&logoColor=white)
 
-# REFERENCIAS DE CONTEÚDO
-Gosto do conteúdo oferecido por alguns canais e por algumas pessoas para revisar, fazer reciclagem e obter novos conhecimentos. Alguns exemplos:
-- Macoratti - Conteúdo voltado para tecnologias Microsoft, como .Net, C#, Arquitetura. Conhecido por muitos e um grande guru para os interessados em aprimorar ou fazer reciclagem do seu conhecimento;
-  - [Artigos](https://macoratti.net/)
-  - [Youtube](https://www.youtube.com/@josecarlosmacoratti)
-- [Dio courses](https://www.dio.me/en) - Canal com conteúdo de muitos segmentos, oferece bootcamp gratuito, fornecido por empresas parceiras também;
-- [DSA (Data Science Academy)](https://blog.dsacademy.com.br/) - Canal com conteúdos voltados para análise de dados, basicamente com linguagem Python e R. Também com conteúdos gratuitos com boa qualidade e muito conteúdo para aguçar o interesse sobre o potencial dos cursos oferecidos
-- Eduardo Pires - Referência quando se fala de tecnologias Microsoft, também criador do canal [desenvolvedor.io](https://desenvolvedor.io/), que oferece cursos com bastante conteúdo; entre outras referências;
-  - [Youtube](https://www.youtube.com/@desenvolvedorio)
- 
+**Gestão & Metodologias / Management & Methodologies**
 
-<!--
-- 👋 Hi, I’m @engqroz-io
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Scrum](https://img.shields.io/badge/Scrum-%23000F27.svg?style=flat)
+![PMBOK](https://img.shields.io/badge/PMBOK-%23D0B700.svg?style=flat)
+![PDCA](https://img.shields.io/badge/PDCA-%232E86AB.svg?style=flat)
+![MVP](https://img.shields.io/badge/MVP-%23F4A261.svg?style=flat)
+![ITIL](https://img.shields.io/badge/ITIL-%23512BD4.svg?style=flat)
+![Jira](https://img.shields.io/badge/Jira-%23003A70.svg?style=flat&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-%23FF8C00.svg?style=flat&logo=clickup&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-%230A3B72.svg?style=flat)
+![BPMN](https://img.shields.io/badge/BPMN-%23FF6600.svg?style=flat)
 
-engqroz-io/engqroz-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Princípios & Boas Práticas / Principles & Best Practices**
+
+![SOLID](https://img.shields.io/badge/SOLID-%234C4C4C.svg?style=flat)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-%2300B4D8.svg?style=flat)
+![DRY](https://img.shields.io/badge/DRY-%236A994E.svg?style=flat)
+![KISS](https://img.shields.io/badge/KISS-%23E63946.svg?style=flat)
+![OOP](https://img.shields.io/badge/OOP-%239B5DE5.svg?style=flat)
+![ETL](https://img.shields.io/badge/ETL-%2338A1D7.svg?style=flat)
+![LTE](https://img.shields.io/badge/LTE-%23F77F00.svg?style=flat)
+
+---
+
+## No momento / Currently
+
+- 🎓 Pós-graduando em **Arquitetura de Soluções** (PUC PR Digital)
+- 🏗️ Me aprofundando em **System Design** e front-end com **React**
+- 📖 Estudando para certificar **Microsoft AZ-900**
+- 🎲 Boardgames
+- 📚 Livros técnicos e de desenvolvimento pessoal — quando sobra energia depois do dia
+- 📺 Séries e documentários pra desligar a cabeça
+
+---
+
+_- 🎓 Postgrad student in **Solution Architecture** (PUC PR Digital)_  
+_- 🏗️ Going deeper into **System Design** and front-end with **React**_  
+_- 📖 Preparing for **Microsoft AZ-900** certification_  
+_- 🎲 Board games_  
+_- 📚 Technical and personal development books — when there's energy left after a full day_  
+_- 📺 Series and documentaries to switch off_  
+
+---
+
+## Vamos conversar / Let's talk
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/engqroz-io)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:clouds.handed613@passinbox.com)
