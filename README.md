@@ -143,4 +143,4 @@ _- 📺 Series and documentaries to switch off_
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engqroz-io\&layout=compact)
